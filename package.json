@@ -1,0 +1,25 @@
+{
+  "name": "portafolio",
+  "version": "1.0.0",
+  "description": "*Modernizacion y agregando javascript al maximo*",
+  "main": "index.js",
+  "engines": {
+    "node": ">=16.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve -s src/"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "serve": "^13.0.2",
+    "babel-jest": "^27.0.1"
+  }
+}
