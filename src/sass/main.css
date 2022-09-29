@@ -14,7 +14,7 @@
 #miLogo {
   font-size: 30px;
   font-weight: 900;
-  color: #d7a99b !important;
+  color: #36ac9a !important;
 }
 
 @media screen and (max-width: 712px) {
@@ -37,17 +37,17 @@
 
 .boton-1 {
   padding: 10px 30px;
-  background: #d7a99b;
+  background: #36ac9a;
   margin: 10px 0px;
   border-radius: 5px;
   text-decoration: none;
   color: rgb(92, 92, 92);
   font-weight: 400;
   font-size: 16px !important;
-  border: 2px solid #d7a99b;
+  border: 2px solid #36ac9a;
   font-weight: bold;
-  -webkit-box-shadow: 0px 2px 2px #e8a894;
-  box-shadow: 0px 2px 2px #f0ab96;
+  -webkit-box-shadow: 0px 2px 2px #36ac9a;
+  box-shadow: 0px 2px 2px #36ac9a;
 }
 
 .boton-1 ion-icon {
@@ -59,8 +59,8 @@
   color: white !important;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 2px solid #8e6987;
-  background-color: #8e6987;
+  border: 2px solid #237165;
+  background-color: #236f64;
   text-decoration: none !important;
 }
 
@@ -87,8 +87,8 @@
 .boton-2:hover {
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  border: 2px solid #a04fa8;
-  background-color: #8e6987;
+  border: 2px solid #36ac9a;
+  background-color: #36ac9a;
   text-decoration: none !important;
   color: white !important;
 }
@@ -108,7 +108,7 @@
 #miLogo {
   font-size: 30px;
   font-weight: 900;
-  color: #d7a99b !important;
+  color: #36ac9a !important;
 }
 
 @media screen and (max-width: 712px) {
@@ -220,7 +220,7 @@
   font-weight: bold;
   padding: 10px;
   border-radius: 50%;
-  background-color: #d7a99b;
+  background-color: #36ac9a;
 }
 
 @media screen and (max-width: 950px) {
@@ -475,7 +475,7 @@ body {
 .dark {
   -webkit-transition: all 0.8s;
   transition: all 0.8s;
-  background-color: #3d3667;
+  background-color: #366d82;
 }
 
 .dark h1,
@@ -692,7 +692,8 @@ header .div-header .divText h3 {
 }
 
 header .div-header .divText h3 span {
-  color: #d7a99b;
+  color: #36ac9a;
+  text-shadow: rgb(11, 11, 11) 2px 2px 5px;
   font-weight: bold;
 }
 
@@ -1301,7 +1302,7 @@ header .div-header .divImg img {
 
 footer {
   width: 100%;
-  background-color: #d7a99b;
+  background-color: #36ac9a;
 }
 
 footer hr {
